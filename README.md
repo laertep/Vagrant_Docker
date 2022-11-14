@@ -1,5 +1,11 @@
-## MENTORIA DEVOPS - DESAFIO03 - Vagrant / Nginx
+## Projeto - Vagrant / Docker / Nginx
 
-$ Instalacao da VM; 
-* Instalação da aplicação NGINX na porta 8050;
-* Sincronismo da pasta SITE com index.html
+$ Instalacao do VirtualBox/Vagrant maquina Host; 
+* Sincronização da pasta site para tmp/site arquivo Vagrantfile;
+
+$ Instalação Docker maquina guest
+* Atualização da VM - update;
+* Instalação do Docker;
+* Inicialização do servidço docker;
+* Execução do comando para criar containerização do serviço Web - Nginx através do docker.
+
