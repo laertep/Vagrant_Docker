@@ -9,3 +9,4 @@ $ Instalação Docker maquina guest
 * Inicialização do servidço docker;
 * Execução do comando para criar containerização do serviço Web - Nginx através do docker.
 
+![image](https://user-images.githubusercontent.com/44216245/201800334-8ff96677-c9a9-4fca-81da-fd71b4e2a3e2.png)
